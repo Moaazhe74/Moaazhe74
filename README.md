@@ -12,7 +12,6 @@ I am building practical machine learning projects focused on classification, reg
 - **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis (EDA), Data Cleaning
 - **Machine Learning:** Scikit-learn, Regression, Classification, Clustering, Model Evaluation
 - **Math & Statistics:** Probability, Statistics, Linear Algebra, Calculus
-- **Computer Vision:** OpenCV basics
 
 ## 📌 Featured Projects
 
